@@ -1,0 +1,24 @@
+  {% if include.name %}
+  {% assign speakers=site.data.[include.name] %}
+  <h2><a name="{{ speakers.id }}"></a> {{ speakers.title }} </h2>
+  <section class="people">
+        <div class="people-body">
+            <div class="container">
+                <div class="columns is-multiline is-centered">
+                    {% for speaker in speakers.items %}
+                    <div class="column is-4 has-text-centered">
+                      <a href="{{ speaker.url }}"> 
+                        <img src="{{ speaker.picture }}" width="200" style="border-radius: 50%;" />
+                        <br />
+                        {{ speaker.name }}
+                      </a><br /> {{ speaker.affiliation }} <br />
+                      {% if speaker.bio %}
+                       <!-- {{ speaker.bio }} -->
+                      {% endif %}
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>    
+  </section>        
+  {% endif %}

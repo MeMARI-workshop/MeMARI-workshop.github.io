@@ -1,0 +1,36 @@
+title: Organizers
+id: organizers
+items:
+
+  - name: Mariya Toneva
+    url: http://www.mtoneva.com
+    affiliation: Max Planck Institute for Software Systems
+    picture: img/mariyatoneva.jpg
+  - name: Uri Hasson
+    url: https://pni.princeton.edu/faculty/uri-hasson
+    affiliation: Princeton University
+    picture: img/urihasson.jpg
+  - name: Kenneth Norman
+    url: https://pni.princeton.edu/faculty/kenneth-norman
+    affiliation: Princeton University
+    picture: img/kennethnorman.jpg
+  - name: Alex Huth
+    url: https://www.cs.utexas.edu/~huth/
+    affiliation: The University of Texas at Austin
+    picture: img/alexhuth.jpg
+  - name: Shailee Jain
+    url: https://shaileejain.com
+    affiliation: The University of Texas at Austin
+    picture: img/shaileejain.jpg
+  - name: Javier Turek
+    url: http://www.javierturek.com
+    affiliation: Intel Labs
+    picture: img/javierturek.jpg
+  - name: Vy Vo
+    url: https://vyaivo.github.io
+    affiliation: Intel Labs
+    picture: img/vyvo.jpg
+  - name: Mihai Capotă
+    url: https://mihaic.ro
+    affiliation: Intel Labs
+    picture: img/mihaicapotă.jpg

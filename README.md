@@ -28,6 +28,9 @@ One of the key challenges for AI is to understand, predict, and model data over 
 |---
 
 
+{% include people.html name="organizers" %}
+
+
 ### Call for papers
 
 TBD
