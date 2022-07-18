@@ -10,7 +10,6 @@ One of the key challenges for AI is to understand, predict, and model data over 
 
 ## Important dates
 
-|---
 | Event | Date
 |:------ |:------
 | Paper submission deadline | September 22nd, 2022
@@ -21,14 +20,12 @@ One of the key challenges for AI is to understand, predict, and model data over 
 
 ## Schedule
 
-|---
 | Time | Location | Event | 
 |:------ |:------ |:-----
 | TBD | TBD | TBD
-|---
 
 
-{% include people.html name="organizers" %}
+{% raw %}{% include people.html name="organizers" %}{% endraw %}
 
 
 ## Call for papers
