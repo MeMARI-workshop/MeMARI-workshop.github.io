@@ -1,6 +1,6 @@
 # Memory in Artificial and Real Intelligence (MemARI)
 
-MemARI is a [NeurIPS 2022](https://neurips.cc/Conferences/2022) workshop. Contact us via our Google Group (memari-workshop@googlegroups.com or https://groups.google.com/g/memari-workshop).
+MemARI is a [NeurIPS 2022](https://neurips.cc/Conferences/2022) workshop. Contact us via our Google Group (<memari-workshop@googlegroups.com> or <https://groups.google.com/g/memari-workshop>).
 
 
 ## About
@@ -25,7 +25,7 @@ One of the key challenges for AI is to understand, predict, and model data over 
 | TBD | TBD | TBD
 
 
-{% raw %}{% include people.html name="organizers" %}{% endraw %}
+{% include people.html name="organizers" %}
 
 
 ## Call for papers
