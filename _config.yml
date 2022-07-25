@@ -5,4 +5,4 @@ defaults:
     scope:
       path: ""
     values:
-      toc: false
+      hero: img/neworleans.jpeg

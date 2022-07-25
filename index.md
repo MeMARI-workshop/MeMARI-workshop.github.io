@@ -31,3 +31,5 @@ One of the key challenges for AI is to understand, predict, and model data over 
 ## Call for papers
 
 TBD
+
+Top image: [Mississippi River](https://www.flickr.com/photos/gregw66/4117534034/), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), [Greg Willis](https://www.flickr.com/people/34791752@N08), 2008.
