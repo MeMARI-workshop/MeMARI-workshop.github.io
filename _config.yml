@@ -5,4 +5,4 @@ defaults:
     scope:
       path: ""
     values:
-      hero: img/neworleans.jpeg
+      hero_image: img/neworleans.jpeg
