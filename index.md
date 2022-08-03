@@ -12,10 +12,10 @@ One of the key challenges for AI is to understand, predict, and model data over 
 
 | Event | Date
 |:------ |:------
-| Paper submission deadline | September 22nd, 2022
-| Final decisions | October 14th, 2022
+| Paper submission deadline | September 22nd, 2022 23:59 Anywhere on Earth
+| Final decisions | October 14th, 2022, 17:00 Pacific time
 | Camera ready deadline | TBD
-| Workshop date | December 2nd, 2022
+| Workshop date | December 2nd, 2022 in-person @ New Orleans
 
 
 ## Schedule
@@ -30,6 +30,29 @@ One of the key challenges for AI is to understand, predict, and model data over 
 
 ## Call for papers
 
-TBD
+We invite submissions to the NeurIPS 2022 workshop on *Memory in Artificial and Real Intelligence (MemARI)*. One of the key challenges for AI systems is to understand, predict, and model data over time. Pretrained networks should be able to temporally generalize, or adapt to shifts in data distributions that occur over time. Our current state-of-the-art (SOTA) still struggles to model and understand data over long temporal durations – for example, SOTA models are limited to processing several seconds of video, and powerful transformer models are still fundamentally limited by their attention spans. By contrast, humans and other biological systems are able to flexibly store and update information in memory to comprehend and manipulate streams of input.
+
+How should memory mechanisms be designed in deep learning, and what can this field learn from biological memory systems? MemARI aims to facilitate progress on these topics by bringing together researchers from machine learning, neuroscience, reinforcement learning, computer vision, natural language processing and other adjacent fields. We invite submissions presenting new and original research on topics including but not limited to the following:
+1. Computational models of biological memory
+2. Role of different biological memory systems in cognitive tasks, with implications for AI algorithms/architectures
+3. Biologically-inspired architectures to improve memory/temporal generalization
+4. New approaches to improving memory in artificial systems
+5. Domain-specific uses of memory mechanisms (e.g., lifelong learning, NLP, RL)
+6. Empirical and theoretical analyses of limitations in current artificial systems
+7. Datasets and tasks to evaluate memory mechanisms of artificial networks
+
+### Submission instructions
+* Submission Portal: [MemARI OpenReview](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/MemARI) (currently accepting submissions)
+* All submissions must be in PDF format.
+* Submissions are limited to four content pages, including all figures and tables; additional pages containing only references are allowed.
+* Please use the NeurIPS 2022 LaTeX style file. Style or page limit violations (e.g., by decreasing margins or font sizes) may lead to automatic rejection
+* All submissions should be anonymous.
+* Per NeurIPS guidelines, previously published work is not acceptable for submission.
+
+### Reviewing process & Acceptance
+* The review process is double-blind.
+* Accepted papers will be presented during a poster session, with spotlight oral presentations for exceptional submissions. (with accommodation for virtual attendees)
+* Accepted papers will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
+
 
 Top image: [Mississippi River](<https://commons.wikimedia.org/wiki/File:Mississippi_River_(4117534034)_(cropped).jpg>), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), [Greg Willis](https://greg-willis.com), 2008.
