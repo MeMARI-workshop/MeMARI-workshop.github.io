@@ -13,7 +13,7 @@ One of the key challenges for AI is to understand, predict, and model data over 
 | Event | Date
 |:------ |:------
 | Paper submission deadline | September 22nd, 2022 23:59 Anywhere on Earth
-| Final decisions | October 14th, 2022, 17:00 Pacific time
+| Final decisions | October 14th, 2022 17:00 Pacific time
 | Camera ready deadline | TBD
 | Workshop date | December 2nd, 2022 in-person @ New Orleans
 
@@ -30,7 +30,7 @@ One of the key challenges for AI is to understand, predict, and model data over 
 
 ## Call for papers
 
-We invite submissions to the NeurIPS 2022 workshop on *Memory in Artificial and Real Intelligence (MemARI)*. One of the key challenges for AI systems is to understand, predict, and model data over time. Pretrained networks should be able to temporally generalize, or adapt to shifts in data distributions that occur over time. Our current state-of-the-art (SOTA) still struggles to model and understand data over long temporal durations – for example, SOTA models are limited to processing several seconds of video, and powerful transformer models are still fundamentally limited by their attention spans. By contrast, humans and other biological systems are able to flexibly store and update information in memory to comprehend and manipulate streams of input.
+We invite submissions to the NeurIPS 2022 workshop on **Memory in Artificial and Real Intelligence (MemARI)**. One of the key challenges for AI systems is to understand, predict, and model data over time. Pretrained networks should be able to temporally generalize, or adapt to shifts in data distributions that occur over time. Our current state-of-the-art (SOTA) still struggles to model and understand data over long temporal durations – for example, SOTA models are limited to processing several seconds of video, and powerful transformer models are still fundamentally limited by their attention spans. By contrast, humans and other biological systems are able to flexibly store and update information in memory to comprehend and manipulate streams of input.
 
 How should memory mechanisms be designed in deep learning, and what can this field learn from biological memory systems? MemARI aims to facilitate progress on these topics by bringing together researchers from machine learning, neuroscience, reinforcement learning, computer vision, natural language processing and other adjacent fields. We invite submissions presenting new and original research on topics including but not limited to the following:
 1. Computational models of biological memory
