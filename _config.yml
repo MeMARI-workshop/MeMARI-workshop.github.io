@@ -1,5 +1,5 @@
 remote_theme: chrisrhymes/bulma-clean-theme
-title: "Memory in Artificial and Real Intelligence (MemARI)"
+title: ""
 
 defaults:
   -
@@ -8,3 +8,4 @@ defaults:
     values:
       hero_image: /img/neworleans.jpeg
       image: /img/logo.jpg
+      subtitle: "Memory in Artificial and Real Intelligence (MemARI)"
