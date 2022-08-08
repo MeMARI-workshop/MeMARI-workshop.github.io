@@ -6,4 +6,5 @@ defaults:
     scope:
       path: ""
     values:
-      hero_image: img/neworleans.jpeg
+      hero_image: /img/neworleans.jpeg
+      image: /img/logo.jpg
