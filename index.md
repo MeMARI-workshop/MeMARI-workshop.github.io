@@ -1,6 +1,6 @@
 MemARI is a [NeurIPS 2022](https://neurips.cc/Conferences/2022) workshop. Contact us via our Google Group (<memari-workshop@googlegroups.com> or <https://groups.google.com/g/memari-workshop>).
 
-![MemARI logo](/img/logo.jpg)
+![MemARI logo](/img/logo.jpg){:height="50%" width="50%"}
 
 
 ## About
