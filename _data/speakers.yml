@@ -1,0 +1,16 @@
+title: Speakers
+id: speakers
+items:
+
+  - name: Ida Momennejad
+    url: https://www.momen-nejad.org
+    affiliation: Microsoft Research
+    picture: img/idamomennejad.jpg
+  - name: Janice Chen
+    url: http://jchenlab.johnshopkins.edu
+    affiliation: Johns Hopkins University
+    picture: img/janicechen.jpg
+  - name: Sainbayar Sukhbaatar
+    url: https://cims.nyu.edu/~sainbar
+    affiliation: Facebook AI Research
+    picture: img/sainbayarsukhbaatar.jpg

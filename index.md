@@ -25,6 +25,9 @@ One of the key challenges for AI is to understand, predict, and model data over 
 | TBD | TBD | TBD
 
 
+{% include people.html name="speakers" %}
+
+
 {% include people.html name="organizers" %}
 
 
