@@ -14,3 +14,7 @@ items:
     url: https://cims.nyu.edu/~sainbar
     affiliation: Facebook AI Research
     picture: img/sainbayarsukhbaatar.jpg
+  - name: Sepp Hochreiter
+    url: https://www.jku.at/en/institute-for-machine-learning/about-us/team/sepp-hochreiter/
+    affiliation: Johannes Kepler University Linz
+    picture: img/sepphochreiter.jpg
