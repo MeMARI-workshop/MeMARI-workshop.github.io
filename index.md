@@ -47,7 +47,7 @@ How should memory mechanisms be designed in deep learning, and what can this fie
 ### Submission instructions
 * Submission Portal: [MemARI OpenReview](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/MemARI) (currently accepting submissions)
 * All submissions must be in PDF format.
-* Submissions are limited to four content pages, including all figures and tables; additional pages containing only references are allowed.
+* Submissions are limited to four content pages, including all figures and tables; additional pages containing supplemental information & references are allowed. Reviewers should be able to judge your work without looking at the supplemental information.
 * Please use the NeurIPS 2022 LaTeX style file. Style or page limit violations (e.g., by decreasing margins or font sizes) may lead to automatic rejection
 * All submissions should be anonymous.
 * Per NeurIPS guidelines, previously published work is not acceptable for submission.
