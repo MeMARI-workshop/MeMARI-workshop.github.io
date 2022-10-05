@@ -13,7 +13,7 @@ One of the key challenges for AI is to understand, predict, and model data over 
 | Event | Date
 |:------ |:------
 | Paper submission deadline | September 29nd, 2022 23:59 Anywhere on Earth
-| Final decisions | October 14th, 2022 17:00 Pacific time
+| Final decisions | October 20th, 2022 17:00 Pacific time
 | Camera ready deadline | TBD
 | Workshop date | December 2nd, 2022 in-person @ New Orleans
 
@@ -45,7 +45,7 @@ How should memory mechanisms be designed in deep learning, and what can this fie
 7. Datasets and tasks to evaluate memory mechanisms of artificial networks
 
 ### Submission instructions
-* Submission Portal: [MemARI OpenReview](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/MemARI) (currently accepting submissions)
+* Submission Portal: [MemARI OpenReview](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/MemARI) (submissions closed)
 * All submissions must be in PDF format.
 * Submissions are limited to four content pages, including all figures and tables; additional pages containing supplemental information & references are allowed. Reviewers should be able to judge your work without looking at the supplemental information.
 * Please use the NeurIPS 2022 LaTeX style file. Style or page limit violations (e.g., by decreasing margins or font sizes) may lead to automatic rejection
