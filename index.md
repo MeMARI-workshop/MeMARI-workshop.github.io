@@ -12,10 +12,11 @@ One of the key challenges for AI is to understand, predict, and model data over 
 
 | Event | Date
 |:------ |:------
-| Paper submission deadline | September 29nd, 2022 23:59 Anywhere on Earth
-| Final decisions | October 20th, 2022 17:00 Pacific time
-| Camera ready deadline | TBD
-| Workshop date | December 2nd, 2022 in-person @ New Orleans
+| Paper submission deadline | September 29, 2022 23:59 Anywhere on Earth (AoE)
+| Final decisions | October 20, 2022 17:00 Pacific time
+| Spotlight presentations deadline (5 min video) | November 10, 2022 23:59 AoE
+| Camera ready deadline (with 3 min video) | November 15, 2022 23:59 AoE
+| Workshop date | December 2, 2022 in-person @ New Orleans
 
 
 ## Schedule
