@@ -59,4 +59,9 @@ How should memory mechanisms be designed in deep learning, and what can this fie
 * Accepted papers will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
 
 
+## Accepted papers
+
+{% include accepted.md %}
+
+
 Top image: [Mississippi River](<https://commons.wikimedia.org/wiki/File:Mississippi_River_(4117534034)_(cropped).jpg>), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), [Greg Willis](https://greg-willis.com), 2008.
