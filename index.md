@@ -32,6 +32,11 @@ One of the key challenges for AI is to understand, predict, and model data over 
 {% include people.html name="organizers" %}
 
 
+## Accepted papers
+
+{% include accepted.md %}
+
+
 ## Call for papers
 
 We invite submissions to the NeurIPS 2022 workshop on **Memory in Artificial and Real Intelligence (MemARI)**. One of the key challenges for AI systems is to understand, predict, and model data over time. Pretrained networks should be able to temporally generalize, or adapt to shifts in data distributions that occur over time. Our current state-of-the-art (SOTA) still struggles to model and understand data over long temporal durations – for example, SOTA models are limited to processing several seconds of video, and powerful transformer models are still fundamentally limited by their attention spans. By contrast, humans and other biological systems are able to flexibly store and update information in memory to comprehend and manipulate streams of input.
@@ -57,11 +62,6 @@ How should memory mechanisms be designed in deep learning, and what can this fie
 * The review process is double-blind.
 * Accepted papers will be presented during a poster session, with spotlight oral presentations for exceptional submissions. (with accommodation for virtual attendees)
 * Accepted papers will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
-
-
-## Accepted papers
-
-{% include accepted.md %}
 
 
 Top image: [Mississippi River](<https://commons.wikimedia.org/wiki/File:Mississippi_River_(4117534034)_(cropped).jpg>), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), [Greg Willis](https://greg-willis.com), 2008.
