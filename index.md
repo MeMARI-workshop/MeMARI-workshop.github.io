@@ -21,9 +21,20 @@ One of the key challenges for AI is to understand, predict, and model data over 
 
 ## Schedule
 
-| Time | Location | Event | 
-|:------ |:------ |:-----
-| TBD | TBD | TBD
+| Time | Event |
+|:------ |:-----
+| 8:30am | Opening (15min)
+| 8:45am | Talk 1 (50min)
+| 9:35am | Talk 2 (50min)
+| 10:25am | Spotlights (20min)
+| 10:45am | Posters (60min)
+| 11:45am | Lunch + posters (1h15min)
+| 1:00pm | Talk 3 (50min)
+| 1:50pm | Talk 4 (50min)
+| 2:40pm | Break (10min)
+| 2:50pm | Talk 5 (50min)
+| 3:40pm | Panel (1h15min)
+| 4:55pm | Closing (5min)
 
 
 {% include people.html name="speakers" %}
@@ -35,6 +46,11 @@ One of the key challenges for AI is to understand, predict, and model data over 
 ## Accepted papers
 
 {% include accepted.md %}
+
+
+## Program committee
+
+{% include reviewers.md %}
 
 
 ## Call for papers
