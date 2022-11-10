@@ -23,18 +23,18 @@ One of the key challenges for AI is to understand, predict, and model data over 
 
 | Time | Event |
 |:------ |:-----
-| 8:30am | Opening (15min)
-| 8:45am | Talk 1 (50min)
-| 9:35am | Talk 2 (50min)
-| 10:25am | Spotlights (20min)
-| 10:45am | Posters (60min)
-| 11:45am | Lunch + posters (1h15min)
-| 1:00pm | Talk 3 (50min)
-| 1:50pm | Talk 4 (50min)
-| 2:40pm | Break (10min)
-| 2:50pm | Talk 5 (50min)
-| 3:40pm | Panel (1h15min)
-| 4:55pm | Closing (5min)
+| 8:30 am | Opening (15 min)
+| 8:45 am | Talk 1 (50 min)
+| 9:35 am | Talk 2 (50 min)
+| 10:25 am | Spotlights (20 min)
+| 10:45 am | Posters (60 min)
+| 11:45 am | Lunch + posters (1 h 15 min)
+| 1:00 pm | Talk 3 (50 min)
+| 1:50 pm | Talk 4 (50 min)
+| 2:40 pm | Break (10 min)
+| 2:50 pm | Talk 5 (50 min)
+| 3:40 pm | Panel (1 h 15 min)
+| 4:55 pm | Closing (5 min)
 
 
 {% include people.html name="speakers" %}
