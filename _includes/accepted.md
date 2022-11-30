@@ -8,7 +8,7 @@
 8. Self-recovery of memory via generative replay. Zhenglong Zhou, Geshi Yeung, Anna C. Schapiro. [Video](https://www.youtube.com/watch?v=vx1raAyDgMY).
 9. The Emergence of Abstract and Episodic Neurons in Episodic Meta-RL. Badr AlKhamissi, Muhammad ElNokrashy, Michael Spranger. [Video](unavailable).
 10. Multiple Modes for Continual Learning. Siddhartha Datta, Nigel Shadbolt. [Video](https://www.youtube.com/watch?v=rtH2EZeNcaw).
-11. The Opportunistic PFC: Downstream Modulation of a Hippocampus-inspired Network is Optimal for Contextual Memory Recall. Hugo Chateau-Laurent, Frederic Alexandre. [Video](unavailable).
+11. The Opportunistic PFC: Downstream Modulation of a Hippocampus-inspired Network is Optimal for Contextual Memory Recall. Hugo Chateau-Laurent, Frederic Alexandre. [Video](https://recorder-v3.slideslive.com/?share=77434&s=5dd2ab3a-d730-45eb-a887-fd3d2c5639f1).
 12. Recall-gated plasticity as a principle of systems memory consolidation. Jack Lindsey, Ashok Litwin-Kumar. [Video](unavailable).
 13. Learning to Reason and Memorize with Self-Questioning. Jack Lanchantin, Shubham Toshniwal, Jason E Weston, Arthur Szlam, Sainbayar Sukhbaatar. [Video](https://recorder-v3.slideslive.com/#/share?share=78356&s=b216b880-3496-464c-a5d4-0cda4830c677).
 14. Informing generative replay for continual learning with long-term memory formation in the fruit fly. Brian S Robinson, Justin Joyce, Raphael Norman-Tenazas, Gautam K Vallabha, Erik Christopher Johnson. [Video](https://youtu.be/grJxdWNi10k).
